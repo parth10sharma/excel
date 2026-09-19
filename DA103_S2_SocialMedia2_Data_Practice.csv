@@ -1,0 +1,14 @@
+Student ID,Age,Gender,Department,Year of Study,Social Media Platform,Post Date,Content,Likes,Comments,Shares
+100017,22,Female,Finance,3,Instagram,24/09/2023,"""Just played a great game.""",60,12,4
+100018,21,Male,Political Science,4,Facebook,20/09/2023,"""Thoughts on the latest news?""",30,5,2
+100019,20,Male,Mathematics,3,Twitter,22/09/2023,"""What do you think about this trend?""",45,7,3
+100020,20,Male,Computer Science,3,Instagram,25/09/2023,"""Game day!""",50,10,2
+100021,22,Female,Psychology,2,Facebook,23/09/2023,"""Its now celebration time!""",30,5,1
+100022,19,Female,Economics,1,Twitter,27/09/2023,"""What do you think about this trend?""",20,3,
+100023,21,Male,History,4,Instagram,26/09/2023,"""Sharing my opinion on...""",40,8,3
+100024,23,Female,English Literature,3,Facebook,24/09/2023,"""Teamwork makes the dream work.""",25,4,2
+100025,20,Male,Mechanical Engineering,2,Twitter,28/09/2023,"""Stay informed and engaged.""",20,3,
+100026,22,Female,Finance,3,Instagram,24/09/2023,"""Sports are my passion.""",60,12,4
+100017,22,Female,Finance,3,Instagram,24/09/2023,"""Enjoying the weekend with friends.",60,12,4
+,60,12,4,,,,,,,,
+100028,20,Male,Mathematics,3,Twitter,22/09/2023,"""Let's make a difference.""",45,7,3
